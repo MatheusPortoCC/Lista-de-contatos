@@ -10,4 +10,6 @@
   - Listagem de contatos
   - Programa intuitivo
 
-**Aplicação sendo desenvolvida com intuito acadêmico**
+**Aplicação desenvolvida com intuito acadêmico**
+
+*Curso: www.udemy.com/course/ruby-on-rails-5-na-pratica/*
